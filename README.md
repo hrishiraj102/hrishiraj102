@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Hrishiraj
-- 👀 I’m interested in Backend Java Development, Mobile app development and DSA
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on web developement.
+
 - 📫 How to reach me email- hrishiraj102@gmail.com
 
 <!---
